@@ -24,7 +24,7 @@ RUN make \
 
 # Download PySceneDetect
 WORKDIR /tmp
-RUN wget https://github.com/Breakthrough/PySceneDetect/archive/v0.4.zip -qO /tmp/pyscenedetect.zip \
+RUN wget https://github.com/Breakthrough/PySceneDetect/archive/v0.5.zip -qO /tmp/pyscenedetect.zip \
     && unzip -q /tmp/pyscenedetect.zip
 
 # Install PySceneDetect
