@@ -6,8 +6,8 @@
 ## Getting the image
 
 Build on your own:
-```
-# docker build https://raw.githubusercontent.com/handflucht/PySceneDetect/master/Dockerfile -t pyscenedetect:latest
+```https://raw.githubusercontent.com/laphlaw/PySceneDetect/master/Dockerfile
+# docker build  -t pyscenedetect:latest
 ```
 
 or pull:
