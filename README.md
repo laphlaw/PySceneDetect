@@ -7,8 +7,7 @@
 
 Build on your own:
 ```
-https://raw.githubusercontent.com/laphlaw/PySceneDetect/master/Dockerfile
-# docker build  -t pyscenedetect:latest
+docker build https://raw.githubusercontent.com/laphlaw/PySceneDetect/master/Dockerfile -t pyscenedetect:latest
 ```
 
 or pull:
